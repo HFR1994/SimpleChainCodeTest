@@ -3,7 +3,7 @@
 Chaincode Test is done using Mocha and [WeAreTheLedger Mock Stub](https://github.com/wearetheledger/fabric-mock-stub)
 
 
-##Usage
+## Usage
 
 ```bash
 npm run build
